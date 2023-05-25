@@ -8,7 +8,7 @@ import Header from '@/layouts/Header';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Decode string app',
+  title: 'Decode string app by Abdel Posada',
   description: 'Created by Abdel Posada for Digitalhype'
 };
 
