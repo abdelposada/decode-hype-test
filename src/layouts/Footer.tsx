@@ -12,7 +12,7 @@ const Footer = () => (
       using:{' '}
       <Link href="https://nextjs.org/" target="_blank">
         Next.js
-      </Link>{' '}
+      </Link>
       ,{' '}
       <Link href="https://chakra-ui.com/" target="_blank">
         Chakra UI
